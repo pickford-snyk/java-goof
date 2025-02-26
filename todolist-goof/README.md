@@ -28,6 +28,7 @@ This repo is still incomplete, a work in progress to support related presentatio
 docker-compose up --build
 docker-compose down
 ```
+By default, application is accessible at localhost:8080/todolist
 
 ## Deploy Application on Heroku
 
